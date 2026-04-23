@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d845fea2abfd42d08c940fae6864e6b, type: 3}
+  m_Name: VHF_Heart
+  m_EditorClassIdentifier: 
+  modelName: Female Human Heart
+  organType: Heart
+  description: A 3D model of a female human heart from the Human Reference Atlas
+    2.4. Contains approximately 335,000 mapped cells across anatomical structures.
+  uberonId: UBERON:0002079
+  sex: female
+  contextualData: "This is the Human Reference Atlas 2.4 female human heart model
+    (UBERON:0000948).\nIt maps approximately 335,000 cells across its anatomical
+    structures.\n\nAnatomical structures (by mapped cell count):\n- Heart left ventricle
+    (~335k cells): the largest and most cell-dense region, responsible for pumping
+    oxygenated blood to the body.\n- Heart right ventricle (~45k cells): pumps deoxygenated
+    blood to the lungs.\n- Interventricular septum (~30k cells): the muscular wall
+    dividing the two ventricles.\n- Left cardiac atrium (~17k cells): receives oxygenated
+    blood from the lungs.\n- Right cardiac atrium (~13k cells): receives deoxygenated
+    blood from the body.\n\nDominant cell types (Azimuth annotation):\nVentricular
+    Cardiomyocytes are the most prevalent \u2014 the contractile muscle cells responsible
+    for the heartbeat. Fibroblasts are the second most common, providing structural
+    support through extracellular matrix production. Other significant types include
+    PC1_vent (pericytes lining small vessels), vCM1 (a ventricular cardiomyocyte
+    subtype), Capillary Endothelial cells (lining the blood vessels), EC1_cap, and
+    Pericytes.\n\nKey biomarkers:\n- Ventricular Cardiomyocytes: MYH7, TNNT2, MYL2\n-
+    Fibroblasts: VIM, COL1A1, PDGFRA\n- Capillary Endothelial cells: PECAM1 (CD31),
+    CDH5\n\nBoth Azimuth and CellTypist annotation tools agree that the left ventricle
+    is dominated by Ventricular Cardiomyocytes and Fibroblasts.\n\nData source: HRA
+    v2.4, HuBMAP consortium. ASCT+B table peer-reviewed and published in Nature Cell
+    Biology (B\xF6rner et al., 2021)."

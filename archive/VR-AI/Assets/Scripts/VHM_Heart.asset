@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d845fea2abfd42d08c940fae6864e6b, type: 3}
+  m_Name: VHM_Heart
+  m_EditorClassIdentifier: 
+  modelName: Male Human Heart
+  organType: Heart
+  description: "A 3D model of a male human heart from the Human Reference Atlas 2.4.
+    Contains approximately 690,000 mapped cells \u2014 roughly twice the female dataset."
+  uberonId: UBERON:0002079
+  sex: male
+  contextualData: "This is the Human Reference Atlas 2.4 male human heart model (UBERON:0000948),
+    part of the Human Reference Atlas built by the HuBMAP consortium.\n\nAnatomical
+    structures (by mapped cell count):\n- Heart left ventricle: the largest and most
+    cell-dense region, responsible for pumping oxygenated blood to the body.\n- Heart
+    right ventricle: pumps deoxygenated blood to the lungs.\n- Interventricular septum:
+    the muscular wall dividing the two ventricles.\n- Left cardiac atrium: receives
+    oxygenated blood from the lungs.\n- Right cardiac atrium: receives deoxygenated
+    blood from the body.\n- Papillary muscles: anchor the mitral and tricuspid valve
+    leaflets, preventing backflow during contraction.\n\nDominant cell types (Azimuth
+    annotation):\nVentricular Cardiomyocytes are the most prevalent \u2014 the contractile
+    muscle cells responsible for the heartbeat. Fibroblasts are the second most common,
+    providing structural support through extracellular matrix production. Other significant
+    types include PC1_vent (pericytes lining small vessels), vCM1 (a ventricular
+    cardiomyocyte subtype), Capillary Endothelial cells (lining the blood vessels),
+    EC1_cap, and Pericytes. The male heart tends to have a higher total cell count
+    than the female model due to greater organ mass.\n\nKey biomarkers:\n- Ventricular
+    Cardiomyocytes: MYH7, TNNT2, MYL2\n- Fibroblasts: VIM, COL1A1, PDGFRA\n- Capillary
+    Endothelial cells: PECAM1 (CD31), CDH5\n- Pericytes: PDGFRB, RGS5\n\nBoth Azimuth
+    and CellTypist annotation tools agree that the left ventricle is dominated by
+    Ventricular Cardiomyocytes and Fibroblasts. Compared to the female heart model,
+    the male heart shows similar cell type proportions but differs in absolute cell
+    counts and slight structural volume differences.\n\nData source: HRA v2.4, HuBMAP
+    consortium. ASCT+B table peer-reviewed and published in Nature Cell Biology (B\xF6rner
+    et al., 2021). Male model identifier: VHM_Heart."

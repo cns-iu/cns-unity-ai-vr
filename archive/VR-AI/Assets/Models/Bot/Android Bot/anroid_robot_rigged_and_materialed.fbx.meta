@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 54a89d2b5fc9347ee99f0d453fabb052
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CALF
+    second: {fileID: 2100000, guid: 7a0d88edf109f45a9be89e4ab96433ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CALF IN
+    second: {fileID: 2100000, guid: fef96586ede7147d49f70fa251b3333d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHEST
+    second: {fileID: 2100000, guid: b3c82b43533c9425484b2fd9133847c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EYES
+    second: {fileID: 2100000, guid: 09f108314209540db885580d4045fd03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOOT BACK
+    second: {fileID: 2100000, guid: 0f440b1d58b76408d92b25f307f7198f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOOT FRONT
+    second: {fileID: 2100000, guid: 1e5444af050134f45a47392d0204c8d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOOT JOINT
+    second: {fileID: 2100000, guid: 3cff9e990bb0147e5bb6b4217a522a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOREARM
+    second: {fileID: 2100000, guid: 7b42b1ecdca3e44f7bb38a3c55e1434a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOREARM JOINT
+    second: {fileID: 2100000, guid: 67b3b590319d448d0aa99e0b9d42605e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HAND
+    second: {fileID: 2100000, guid: 2b3e42264b4314ae89f884f2db8a9ae2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HEAD
+    second: {fileID: 2100000, guid: 092335cd157bf4738a9f772b06a0cc49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HIP LEG JOINT
+    second: {fileID: 2100000, guid: 47aa131c9a20741588aa907cb4d8e803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HIP-SPINE
+    second: {fileID: 2100000, guid: 488006f11dca24ab092cdc764a6d054e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NECK
+    second: {fileID: 2100000, guid: c08fafb3cba384f80917f0e2a07d1be6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER
+    second: {fileID: 2100000, guid: c33c04631901345dba050251bd548f6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER IN
+    second: {fileID: 2100000, guid: 3636097408ff64c7186a365985afdc13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER OUT
+    second: {fileID: 2100000, guid: 3ff300d4faf04406abcdc49c1bccc988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: THIGH
+    second: {fileID: 2100000, guid: 36b32ed38bba14b00ab901e6187b675f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: THIGH JOINT
+    second: {fileID: 2100000, guid: 9b787dcd87b15414dbc2b357ef8fa652, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CALF IN_Base_color
+    second: {fileID: 2800000, guid: 8a8f4b4d126cf468fa3be095b6cc1a03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CALF IN_Normal_OpenGL
+    second: {fileID: 2800000, guid: 24690ba5734064a8d95bcd31adc71a38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CALF IN_Roughness
+    second: {fileID: 2800000, guid: 9d04b3abffdbd4ea8a9c7fedcb32864c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CALF_Base_color
+    second: {fileID: 2800000, guid: d17166afe3ec34fde97d5868d6a408b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CALF_Metallic
+    second: {fileID: 2800000, guid: 132045b4d07a4433cb849393546e1d62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CALF_Normal_OpenGL
+    second: {fileID: 2800000, guid: c421868c543da497cb1898a9a7516abb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CHEST_Base_color
+    second: {fileID: 2800000, guid: 80038b5806ccb4197a86c56ed4e5726b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CHEST_Normal_OpenGL
+    second: {fileID: 2800000, guid: 2301fda9e35d0450e8805ae69aec8fa8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CHEST_Roughness
+    second: {fileID: 2800000, guid: df08b05e4b65d49b3a7e8b8427bc5606, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EYES_Base_color
+    second: {fileID: 2800000, guid: ea3574c9c205f4055b3d5330cc97e2b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EYES_Emissive
+    second: {fileID: 2800000, guid: e4883bff4fc144853968c555931f56ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EYES_Normal_OpenGL
+    second: {fileID: 2800000, guid: b06189fcb56a0439a9eb38b3566ab427, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EYES_Roughness
+    second: {fileID: 2800000, guid: 8f029ebd8e82741daa17706c6ee6847c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOOT BACK_Base_color
+    second: {fileID: 2800000, guid: ecc0a28367f2847cea17152a0567bd51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOOT BACK_Normal_OpenGL
+    second: {fileID: 2800000, guid: 26b24af6e44f8434f8980ecafbde3413, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOOT BACK_Roughness
+    second: {fileID: 2800000, guid: 77c94c1afa3024e5687fb72c1f9d94a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOOT FRONT_Base_color
+    second: {fileID: 2800000, guid: 580a1ec799390441bb0f29e52ce7fc99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOOT FRONT_Normal_OpenGL
+    second: {fileID: 2800000, guid: 4ed084fa35abe471386ea0f100d0b021, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOOT FRONT_Roughness
+    second: {fileID: 2800000, guid: 462134e792de440ed987d08a698e1ba7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOOT JOINT_Base_color
+    second: {fileID: 2800000, guid: d5387d5ec56d94b9c8e0c235bff4054c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOOT JOINT_Normal_OpenGL
+    second: {fileID: 2800000, guid: 3463012af317f41ba83fd4759a5fac92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOOT JOINT_Roughness
+    second: {fileID: 2800000, guid: e163008b84595489fbe212aa36fdcec1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOREARM JOINT_Base_color
+    second: {fileID: 2800000, guid: 100b9a0d69521498e874bb5c702d1ede, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOREARM JOINT_Normal_OpenGL
+    second: {fileID: 2800000, guid: a0cad364b53464dcc964b4fa0a3a7713, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOREARM JOINT_Roughness
+    second: {fileID: 2800000, guid: 6a8a653103afd4d2c9483b2bf2c344bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOREARM_Base_color
+    second: {fileID: 2800000, guid: bda5f67ad32c64d21915cc9fa7960fc5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOREARM_Metallic
+    second: {fileID: 2800000, guid: 88d9c321c06294f2fb934b3a53b481ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FOREARM_Normal_OpenGL
+    second: {fileID: 2800000, guid: 6c4a7e4740e3146988a9602287045e41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HAND_Base_color
+    second: {fileID: 2800000, guid: 5913956f489bb4723bb8f20b9428d0ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HAND_Normal_OpenGL
+    second: {fileID: 2800000, guid: 0787410138bee4e4bb9869a010b6d39c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HAND_Roughness
+    second: {fileID: 2800000, guid: 2e61d8199c56f45a492618e78c13c759, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HEAD_Base_color
+    second: {fileID: 2800000, guid: d94769fd58c5144c0b8e89830dd4ee84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HEAD_Emissive
+    second: {fileID: 2800000, guid: ca8cf709003484c0f98cc3971453f581, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HEAD_Normal_OpenGL
+    second: {fileID: 2800000, guid: 524b35bfc034645f1b566ae789145cd5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HIP LEG JOINT_Base_color
+    second: {fileID: 2800000, guid: 7570c3c8940c343b1a672b649da73538, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HIP LEG JOINT_Normal_OpenGL
+    second: {fileID: 2800000, guid: 51fbd58e0528c472391ee15f6c803cae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HIP LEG JOINT_Roughness
+    second: {fileID: 2800000, guid: 98169d0446b504c53af70808464a814f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HIP SPINE_Base_color
+    second: {fileID: 2800000, guid: 18e301200811a4b7eb73f4154e512220, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HIP SPINE_Emissive
+    second: {fileID: 2800000, guid: fee2ab01c94b34d43aed63d0a0fe5b1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HIP SPINE_Normal_OpenGL
+    second: {fileID: 2800000, guid: 5f5a527cb4f6345469de861529fffa63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HIP SPINE_Roughness
+    second: {fileID: 2800000, guid: ab4de77527dec45278af1effac80cc70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NECK_Base_color
+    second: {fileID: 2800000, guid: 18e9d3ce8f30b45878dd751daca88177, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NECK_Normal_OpenGL
+    second: {fileID: 2800000, guid: a684f5f917ea34c3587a5001bc8e5a08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NECK_Roughness
+    second: {fileID: 2800000, guid: 583539f8776ec41eb935456dc340cca3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER IN_Base_color
+    second: {fileID: 2800000, guid: a3ba62b3a398a4d3b9b5a849faa1d391, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER IN_Normal_OpenGL
+    second: {fileID: 2800000, guid: 7e116f5b6084c46a296814fe597aaf84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER IN_Roughness
+    second: {fileID: 2800000, guid: 9b55fd4be17394367addb13d08c0c2e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER OUT_Base_color
+    second: {fileID: 2800000, guid: b649db935b7564d4a9596f3071af76bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER OUT_Metallic
+    second: {fileID: 2800000, guid: 42d027c0cbdb746b8a5a942b374f084b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER OUT_Normal_OpenGL
+    second: {fileID: 2800000, guid: 1e99d930096574294bb74f543063afd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER_Base_color
+    second: {fileID: 2800000, guid: 3f2944f362de141138d8187170fec66a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER_Emissive
+    second: {fileID: 2800000, guid: 8243ec8fdc62a43dd94310dc1c52182c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER_Normal_OpenGL
+    second: {fileID: 2800000, guid: 82870066df17c45a291ef865f7358438, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SHOULDER_Roughness
+    second: {fileID: 2800000, guid: 7d2d93faab8cc44d6b0fa62f6bb07295, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: THIGH JOINT_Base_color
+    second: {fileID: 2800000, guid: cc7d795886e7a483689f0af115346df1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: THIGH JOINT_Normal_OpenGL
+    second: {fileID: 2800000, guid: b9649c58776874941bcf3b2aebef9cd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: THIGH JOINT_Roughness
+    second: {fileID: 2800000, guid: 18131aa5d681d4eb2a8582e19240e185, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: THIGH_Base_color
+    second: {fileID: 2800000, guid: 0a92b46b1e28340b18aa504cb0f54288, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: THIGH_Normal_OpenGL
+    second: {fileID: 2800000, guid: f1ae3829b54784bc6987439608ec61bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: THIGH_Roughness
+    second: {fileID: 2800000, guid: 8e045ac32a0de43858a674a5bd065d7a, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
